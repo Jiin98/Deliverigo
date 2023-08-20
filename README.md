@@ -14,4 +14,4 @@ Based on this information, users can feel a sense of accomplishment by explicitl
 
 We expect that this app will make a small contribution to reducing delivery dependence by encouraging direct visits by making users feel a sense of accomplishment.
 # Display
-<img width="602" alt="deliverigofigma" src="https://github.com/Jiin98/Deliverigo/assets/108528803/70fbffc0-1d9b-4a0d-b91a-6d02ae7a8f69">
+<img width="1000" alt="deliverigofigma" src="https://github.com/Jiin98/Deliverigo/assets/108528803/70fbffc0-1d9b-4a0d-b91a-6d02ae7a8f69">
