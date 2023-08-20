@@ -44,3 +44,6 @@ We will explain what criteria were used when calculating the information.**
 
 ## Display
 ![2023-08-20 10 22 03](https://github.com/Jiin98/Deliverigo/assets/108528803/5c2cff88-f78c-4b79-894b-9e59e9664ec1)
+
+## Notion
+[Deliverigo]([http://www.google.co.kr](https://www.notion.so/izongg/Deliverigo-1a5b8823931f4215bb4efc616689501d)https://www.notion.so/izongg/Deliverigo-1a5b8823931f4215bb4efc616689501d)
