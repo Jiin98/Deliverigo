@@ -19,7 +19,7 @@ Based on this information, users can feel a sense of accomplishment by explicitl
 We expect that this app will make a small contribution to reducing delivery dependence by encouraging direct visits by making users feel a sense of accomplishment.
 
 
-## MainFunction
+## Main Function
 
 
 
