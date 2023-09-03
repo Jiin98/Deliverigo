@@ -3,7 +3,7 @@
 
 ## **Introduce**
 
----
+
 
 This app is a service aimed at promoting healthy consumption habits and environmental protection at the same time by reducing dependence on delivery.
 
@@ -21,7 +21,7 @@ We expect that this app will make a small contribution to reducing delivery depe
 
 ## MainFunction
 
----
+
 
 1. Based on GPS, measure the distance to the current location and the selected location and provide required information about the distance
 
@@ -32,7 +32,7 @@ We expect that this app will make a small contribution to reducing delivery depe
 
 ## **Calculation standard**
 
----
+
 
 **On the last page, you will find information about the benefits of not using a delivery app.
 We will explain what criteria were used when calculating the information.**
