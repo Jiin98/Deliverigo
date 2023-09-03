@@ -30,7 +30,7 @@ We expect that this app will make a small contribution to reducing delivery depe
 3. Not only calorie information, but also elements that can be obtained when not using the delivery app are increasingly allowing users to see and feel a sense of accomplishment.
 
 
-## **Calculation standard**
+## **Calculation Standard**
 
 
 
